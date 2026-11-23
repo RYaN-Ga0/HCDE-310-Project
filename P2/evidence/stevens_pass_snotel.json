@@ -1,0 +1,30 @@
+
+[
+  {
+    "stationTriplet": "791:WA:SNTL",
+    "data": [
+      {
+        "stationElement": {
+          "elementCode": "SNWD",
+          "durationName": "DAILY",
+          "storedUnitCode": "in"
+        },
+        "values": [
+          {"date": "2026-11-20", "value": 0},
+          {"date": "2026-11-21", "value": 1}
+        ]
+      },
+      {
+        "stationElement": {
+          "elementCode": "WTEQ",
+          "durationName": "DAILY",
+          "storedUnitCode": "in"
+        },
+        "values": [
+          {"date": "2026-11-20", "value": 0.0},
+          {"date": "2026-11-21", "value": 0.1}
+        ]
+      }
+    ]
+  }
+]
